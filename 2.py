@@ -1,3 +1,3 @@
 first_name = "tamam"
 
-print(first_name)
+print(f"{first_name}")
