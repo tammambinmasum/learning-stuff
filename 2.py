@@ -1,4 +1,4 @@
 first_name = "tamam"
-food = coh
+food = chocolate 
 
 print(f"{first_name}")
