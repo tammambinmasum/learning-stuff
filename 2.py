@@ -1,5 +1,5 @@
 first_name = "tammam"
-food = chocolate
+food = dark chocolate
 email = "tammam896@fake.com"
 
 print(f"hello {first_name}")
