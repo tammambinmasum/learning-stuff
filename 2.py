@@ -1,5 +1,5 @@
 first_name = "tammam"
-food = milk chocolate
+food = chocolate
 
 print(f"hello {first_name}")
 Print(i like {food})
