@@ -1,2 +1,2 @@
 Name = "tammam"
-Age = 100
+Age = 10
