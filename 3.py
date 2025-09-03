@@ -5,3 +5,7 @@ Student = true
 
 
 print(type(Name))
+print(type(age))
+
+
+
