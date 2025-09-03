@@ -3,6 +3,3 @@ Age = 10
 Gpa = 1.5
 Student = true
 
-
-print(type(Name))
-
