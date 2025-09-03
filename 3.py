@@ -4,4 +4,4 @@ Gpa = 1.5
 Student = true
 
 
-type()
+print()
