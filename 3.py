@@ -3,4 +3,5 @@ Age = 10
 Gpa = 1.5
 Student = true
 
-Gpa = int(gpa)
+Gpa = int(Gpa)
+print(Gpa)
