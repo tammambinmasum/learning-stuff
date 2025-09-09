@@ -4,3 +4,4 @@ Gpa = 1.5
 Student = true
 
 Age = bool(Age)
+print()
