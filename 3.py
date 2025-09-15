@@ -3,5 +3,5 @@ Age = 10
 Gpa = 1.5
 Student = true
 
-Gpa = bool(Ag)
+Gpa = bool(Age)
 print(Age)
