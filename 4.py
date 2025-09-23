@@ -1,3 +1,3 @@
 name = input("enter your name: ")
 
-print(f"")
+print(f"hello {name}")
