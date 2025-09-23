@@ -1,1 +1,1 @@
-input("enter your")
+input("enter your n")
