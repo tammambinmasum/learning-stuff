@@ -1,1 +1,1 @@
-input("enter your n")
+input("enter your na")
