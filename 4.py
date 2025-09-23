@@ -1,1 +1,1 @@
-input("enter your nam")
+input("enter your name")
